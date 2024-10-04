@@ -5,7 +5,7 @@ import Middle from "./Components/Middle";
 
 export default function EventsAndNews() {
   return (
-    <div className="min-h-[100vh] w-[100vw] bg-[#1E1E1E] flex flex-col gap-20 pb-10">
+    <div className="min-h-[100vh] w-[100vw] bg-[#1E1E1E] flex flex-col gap-20 pb-10 items-center justify-center gap-[40px]">
       <Box sx={{display:"flex", flexDirection:"column", alignItems:"center"}} >
         <Typography
           sx={{
