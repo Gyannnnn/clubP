@@ -35,6 +35,7 @@ export default function EventsAndNews() {
             lineHeight: "30px",
             color: "#757575",
             textAlign: "center",
+            paddingBottom:"10px"
            
             
           }}
